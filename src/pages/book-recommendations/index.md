@@ -6,6 +6,7 @@ title: Books to Read for Programmers
 *Automate the Boring Stuff With Python*
 - http://automatetheboringstuff.com/
 - ISBN-13: 978-1593275990
+- About: Learn python from scratch
 
 *Structure and Interpretation of Computer Programs*
 - https://mitpress.mit.edu/sicp/
@@ -30,6 +31,7 @@ title: Books to Read for Programmers
 *You Don't Know JS (book series)*
 - https://github.com/getify/You-Dont-Know-JS
 - ISBN-13: 9781491924464 
+- About: learn about JavaScript from basics
 
 *Soft Skills: The software developer's life manual*
 - [Amazon Smile](https://smile.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397?pldnSite=1)
@@ -37,7 +39,14 @@ title: Books to Read for Programmers
 
 *Introduction to Algorithms, 3rd Edition (MIT Press)*
 - [Amazon Smile](https://smile.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)
-- ISBN-13: 978-0262033848 
+- ISBN-13: 978-0262033848
+- About: The Bible for Algorithms, covers the entire terrain of algorithms.
+
+*The Algorithm Design Manual 2nd ed. 2008 Edition*
+- [Amazon](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+-  ISBN-13: 978-1849967204 
+- About: A concise yet robust approach to algorithms.
+
 
 *Cracking the Coding Interview: 150 Programming Questions and Solutions*
 - [Amazon Smile](https://smile.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
@@ -46,6 +55,7 @@ title: Books to Read for Programmers
 *The C Programming Language by Brian W. Kernighan and Dennis Ritchie*
 - [Amazon Smile](https://smile.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/)
 - ISBN-13: 978-0131103628
+- About: the most to the point book for learning C.
 
 *Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by Steve Krug*
 - [Amazon Smile](https://smile.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1538370339&sr=8-1&keywords=dont+make+me+think)
@@ -62,6 +72,12 @@ title: Books to Read for Programmers
 *The Pragmatic Programmer: From Journeyman to Master*
 - [Amazon Smile](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 - ISBN-13: 978-0201616224
+
+*Pro-Git(2nd Edition)*
+- [Amazon](https://www.amazon.com/Pro-Git-Scott-Chacon/dp/1484200772)
+-  ISBN-13: 978-1484200773
+- About: Learn all about git and how it works!
+
 
 This list was compiled from multiple suggestion threads on Reddit and Stackoverflow. 
 Please feel free to add more that you have found useful!
